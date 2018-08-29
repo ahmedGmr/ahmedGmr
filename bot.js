@@ -38,7 +38,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~The King Bot~~__ By: Peery#0609
+__~~Top$BOT$~~__ By: Peery#0609
 ╱╭╮╭╮╱╱╱╱╭╮╭━╮╱╱╱╱╱╱╭━━╮╱╱╱╭╮
 ╭╯╰┫┃╱╱╱╱┃┃┃╭╯╱╱╱╱╱╱┃╭╮┃╱╱╭╯╰╮
 ╰╮╭┫╰━┳━━┫╰╯╯╭┳━╮╭━━┫╰╯╰┳━┻╮╭╯
@@ -92,9 +92,9 @@ __~~The King Bot~~__ By: Peery#0609
 
 ❖ *avatar ➾ your avatar account
 
-❖ *help-en ➾ help by arabic
+❖ #help-en ➾ help by arabic
 
-❖ *help-en ➾ help by english
+❖ $help-en ➾ help by english
 
 ❖ *ping ➾ to see ping
 
