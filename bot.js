@@ -1,9 +1,10 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '.'
+
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`BOT$TOP$`,"http://twitch.tv/S-F")
+client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -290,5 +291,7 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
     
    }
    }); 
+   
+	client.login("NDgwMzk1ODYxNjMzOTI1MTIy.DmhTRg.2TH00Vol34TwAnIXCKjVmNBjLMQ");
 
 client.login(process.env.BOT_TOKEN);
