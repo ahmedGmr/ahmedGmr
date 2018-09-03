@@ -290,8 +290,5 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
     
    }
    }); 
-   
-	client.login("NDgwMzk1ODYxNjMzOTI1MTIy.DmhTRg.2TH00Vol34TwAnIXCKjVmNBjLMQ");
-
 
 client.login(process.env.BOT_TOKEN);
